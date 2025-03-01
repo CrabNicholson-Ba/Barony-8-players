@@ -1,4 +1,4 @@
-Steps to install: 
+# Steps to install: 
 
 1: Download the Barony_8P.rar from the releases
 
@@ -10,6 +10,10 @@ Steps to install:
 
 5: Make sure there are arrows on the character sheet lineup.
 
-Important: Do not click "Play Modded Game"; nothing happens.
+# Important: 
 
-A tip: The mod has most likely worked if the Seed Events tab does not appear.
+Do not click "Play Modded Game"; nothing happens.
+
+# A tip: 
+
+The mod has most likely worked if the Seed Events tab does not appear.
